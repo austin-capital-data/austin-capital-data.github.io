@@ -2,16 +2,16 @@ url: https://creatingsapien.github.io
 baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: creating sapien - project space
+email: gunnar@austincapitaldata.com
 description: "A place for people to discuss thier creations"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Gunnar Kleemann
   pic: 1
-  position: Lead Designer
+  position: Lead Maker
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Denis Vrdoljak
   pic: 2
-  position: Lead Marketer
+  position: Instructor at-large
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Simeon Daylong
   pic: 3
-  position: Lead Developer
+  position: Fulfillment Engineer
   social:
     - title: twitter
       url: #
