@@ -2,7 +2,7 @@ url: https://creatingsapien.github.io
 baseurl: ""
 
 # Site settings
-title: creating sapien - project space
+title: Creating Sapien - A Project Space
 email: gunnar@austincapitaldata.com
 description: "A place for people to discuss thier creations"
 
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Simeon Daylong
+- name: Mysterious contributor
   pic: 3
-  position: Fulfillment Engineer
+  position: Fulfillment Master
   social:
     - title: twitter
       url: #
